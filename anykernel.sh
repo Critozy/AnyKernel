@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Butterfly kernel for Xiaomi Mi A2 Lite
+kernel.string=Re-Life Kernel for Xiaomi Mi A2 Lite
 do.devicecheck=1
 do.modules=1
 do.cleanup=1
